@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Arte com IA</title>
+    <!-- Link para o arquivo CSS externo -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Explorando a Arte com IA</h1>
+        <p>Aqui estão alguns vídeos que representam a interação entre IA e a criatividade humana, aprendizado de máquina e arte digital.</p>
+    </header>
+
+    <main>
+        <section class="video-container">
+            <div class="video">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/o7Vw_WfXCnc?si=W10pu-yOUOebJ5x4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+             </div>
+           <iframe width="560" height="315" src="https://www.youtube.com/embed/i6xbl9QzIK0?si=44N3Ld3HMkoGiILg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/UhA_ZgI-otM?si=GPweSGHO28TP0dHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+           <iframe width="560" height="315" src="https://www.youtube.com/embed/3l2RenQqHNM?si=ghtAKR_yJAGoMEva" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+           <iframe width="560" height="315" src="https://www.youtube.com/embed/gEJOvEP2r6A?si=ziq5O7jDzrotpfCf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Minha Arte com IA. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
+
+
